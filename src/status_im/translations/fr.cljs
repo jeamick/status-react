@@ -4,7 +4,7 @@
   {
    ;common
    :members-title                         "Membres"
-   :not-implemented                       "! non mis en œuvre"
+   :not-implemented                       "non mis en œuvre !"
    :chat-name                             "Pseudo"
    :notifications-title                   "Notifications et sons"
    :offline                               "Hors ligne"
